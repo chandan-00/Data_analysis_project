@@ -1,2 +1,2 @@
-# Data_analysis_project
-
+# Data analysis project
+This project was developed as part of the final selection round for the sponsored Scot Forge project. The notebook demonstrates a complete end-to-end data science workflow, including data cleaning, exploratory data analysis (EDA), statistical testing, and the application of machine learning algorithms.
